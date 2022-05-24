@@ -1,5 +1,5 @@
 # Laptop-Price-Predictor
-
+ML Regression Problem to predict the Laptop Price Predictor using Random Forest Regressor, by determining the relevant features from the given Datasets like Brand, Type,  RAM, Weights, CPU, GPU, Resolution, Hardisk, OS etc. Perform univariate analysis to extract hidden feature from the existing variables by applying the feature engineering technique.
 
 
 
